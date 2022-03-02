@@ -1,0 +1,37 @@
+
+
+
+- select a language 
+
+- new or returning user
+  - returning customer button
+  - new customer button
+  - create new account
+  - back button
+-sign in
+  - returning customer sign in
+  - new customer sign in
+  - back button
+
+- My account 
+  ~ menu ~
+  - my orders
+    - all past orders 
+    - back button
+  - my tickets
+  - home 
+  - name 
+  - picture
+
+- movies
+  - scrolling through movies
+  - add to cart
+
+- snacks
+ - scrolling through snacks
+  - add to cart
+
+-log out 
+- back button
+
+
